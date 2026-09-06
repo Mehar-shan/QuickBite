@@ -1,0 +1,6 @@
+{
+  "name": "QuickBite Fast Food",
+  "description": "Online fast-food restaurant ordering and management system with live menu, real-time cart, checkout, order tracking, and restaurant dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
